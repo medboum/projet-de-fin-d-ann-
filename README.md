@@ -10,3 +10,4 @@ Distribute community news and updates
 
 Generate content with programs like community blogging
 
+Screenshots:
